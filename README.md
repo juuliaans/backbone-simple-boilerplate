@@ -10,8 +10,12 @@ Feel free to suggest any changes, and hey! why don't you fork it and commit new 
 
 My name is Julián Santa Ana, and you can find me all over the internet, but usually im on Twitter at http://twitter.com/juliansantaana
 
+DEMO
+====
 
+This app is running live here:
 
+http://backbone-simple-boilerplate.herokuapp.com/
 
 Getting started
 ===============
